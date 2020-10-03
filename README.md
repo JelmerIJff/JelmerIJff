@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://jelmerr.vercel.app/api/spotify)](https://open.spotify.com/user/jelmerijff)
+[![Spotify](https://spotify-now-playing.jelmerr.vercel.app/api/spotify)](https://open.spotify.com/user/jelmerijff)
 <!--
 **JelmerIJff/JelmerIJff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
